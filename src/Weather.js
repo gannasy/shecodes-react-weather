@@ -55,7 +55,7 @@ export default function Weather() {
 
                 </div>
             </div>
-            <p>My code on GitHub: <span class="key" id="humidity"></span>%</p>
+            <span class="key" id="humidity"><a href="https://github.com/gannasy/shecodes-react-weather">My code on GitHub</a></span>
         </div>
 
     </div>
